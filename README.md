@@ -1,6 +1,8 @@
 #### introduce
-pull log with http method.refer to:[how-can-i-follow-a-file-like-tail-f-does-in-java-without-holding-the-file-open](http://stackoverflow.com/questions/14610621/how-can-i-follow-a-file-like-tail-f-does-in-java-without-holding-the-file-ope)
-this has been use in qipeng.com 3 years,it's reliable
+this can be use to tail log with http api . it's been use in qipeng.com 3 years,it's reliable
+
+<br/>
+refer to:[how-can-i-follow-a-file-like-tail-f-does-in-java-without-holding-the-file-open](http://stackoverflow.com/questions/14610621/how-can-i-follow-a-file-like-tail-f-does-in-java-without-holding-the-file-ope)
 
 #### http server:
 
