@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.settings
+*.classpath
+*.project
+*.bak
+*.class
+bin
+class
+static
+images
+styles
+scripts
+hbs
+target
+.sass-cache
+*.log
+bin/**
+.idea/**
+*.iml
+submode
+a.jsp

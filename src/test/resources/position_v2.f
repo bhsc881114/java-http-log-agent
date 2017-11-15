@@ -1,0 +1,1 @@
+{"/tmp/agent/3.log":{"pos":0,"filePath":"/tmp/agent/3.log","lastReadtime":0},"/tmp/agent/1.log":{"pos":0,"filePath":"/tmp/agent/1.log","lastReadtime":0},"/tmp/agent/2.log":{"pos":0,"filePath":"/tmp/agent/2.log","lastReadtime":0}}
