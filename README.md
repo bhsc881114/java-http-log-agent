@@ -20,3 +20,5 @@ java -Xms256m -Xmx512m -XX:PermSize=96m -verbose:gc -XX:+PrintGCDetails -XX:+Pri
 - 3.add tail log :     curl 'http://127.0.0.1:11456/addFile?filePath=/tmp/tmp.log&charset=utf-8'
 - 4.tail log :         curl 'http://127.0.0.1:11456/log2?filePath=/tmp/tmp.log'
 - 5.list tailing log : curl 'http://127.0.0.1:11456/listFiles'
+
+
